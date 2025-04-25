@@ -4,7 +4,7 @@
 
 <p align="left">I'm an IT Student from San Beda University</p>
 
-More about me: [Soon](https://facebook.com/delacruzdeanu)
+More about me: [Soon](https://facebook.com)
 
 ###
 
